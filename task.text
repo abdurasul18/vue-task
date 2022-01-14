@@ -1,0 +1,25 @@
+1.	TEST web app
+Тест ечадиган дастур яратиш кере Vue js да
+10 савол килиш кере
+3 хил турдаги тест яратиш кере
+1 чи турдаги саволда битта тугри жавоб
+2 чи турдаги саволда икта ва ундан куп тугри жавоб 
+3 чи турдаги саволда текст йозиш кере булади
+Натижа куриниши 9/10 
+2.	Forma yaratish
+HTML ва CSS йордамида форма яратиш кере.
+Форма элементлари валидация булиши кере
+-phone
+-name
+-passport
+-PINFL
+-birthday date	
+3.	Кулда саралаш мумкин булган руйхат яратиш кере
+Руйхат CRUD(create, update, delete) амаллар тулик булиши керак
+4.	Login
+Autentifikatsiya UI tayyorlash
+Bunda login va parol kiritilgandan so'ng backend token qaytaradi va uni saqlash yollari havfsizligini o'ylab topish
+Logout funksiyasini ham qilish
+
+Barcha tasklar UI o'ziga hos, istalgan cha qilish mumkin
+Muddat: 3 kun
