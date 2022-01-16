@@ -1,0 +1,6 @@
+body {
+    @apply bg-gray-100;
+}
+.btn-second {
+    @apply py-2 px-3 rounded-lg border border-blue-600 text-xl mt-6 ml-auto block hover:bg-blue-600 hover:text-white duration-75;
+  }
